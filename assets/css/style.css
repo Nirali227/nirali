@@ -335,7 +335,7 @@ body.nav-active { overflow: hidden; }
 
 .contact-link { transition: var(--transition-1); }
 
-.contact-link:is(:hover, :focus-visible) { color: var(--cinnamon-satin); }
+.contact-link:is(:hover, :focus-visible) { color: var(--manatee); }
 
 .overlay {
   position: fixed;
